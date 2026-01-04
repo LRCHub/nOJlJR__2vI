@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Happiness",
+  "base_artist": "frederic",
+  "createdAt": "2026-01-04T10:57:20.870408Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pursuit of Happiness",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/01_Pursuit_of_Happiness_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Happiness",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/02_Happiness_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Happiness is a butterfly",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/03_Happiness_is_a_butterfly_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Hiccup In Your Happiness",
+      "artist": "The Lucksmiths",
+      "has_synced": true,
+      "path": "select/04_A_Hiccup_In_Your_Happiness_The_Lucksmiths.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Happiness",
+      "artist": "Lisa Germano",
+      "has_synced": true,
+      "path": "select/05_Happiness_Lisa_Germano.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bluebird of Happiness",
+      "artist": "Mojave 3",
+      "has_synced": false,
+      "path": "select/06_Bluebird_of_Happiness_Mojave_3.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bring Back My Happiness",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/07_Bring_Back_My_Happiness_Moby.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bring Back My Happiness (extended mix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/08_Bring_Back_My_Happiness_(extended_mix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bring Back My Happiness - Josh Wink Mix",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/09_Bring_Back_My_Happiness_-_Josh_Wink_Mix_Moby.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bring Back My Happiness (Para Los Discos mix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/10_Bring_Back_My_Happiness_(Para_Los_Discos_mix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Happiness",
+      "artist": "Maze",
+      "has_synced": true,
+      "path": "select/11_Happiness_Maze.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Happiness",
+      "artist": "Maze featuring Frankie Beverly",
+      "has_synced": true,
+      "path": "select/12_Happiness_Maze_featuring_Frankie_Beverly.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Homeless Happiness",
+      "artist": "Madeleine Peyroux",
+      "has_synced": true,
+      "path": "select/13_Homeless_Happiness_Madeleine_Peyroux.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love & Happiness (feat. India) (12'' club mix)",
+      "artist": "River Ocean",
+      "has_synced": false,
+      "path": "select/14_Love_&_Happiness_(feat._India)_(12''_club_mix)_River_Ocean.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love & Happiness (feat. India) (12\" Club Mix)",
+      "artist": "River Ocean",
+      "has_synced": false,
+      "path": "select/15_Love_&_Happiness_(feat._India)_(12__Club_Mix)_River_Ocean.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Happiness In Slavery",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/16_Happiness_In_Slavery_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Meet My Happiness",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/17_Meet_My_Happiness_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lay Some Happiness on Me",
+      "artist": "Dean Martin",
+      "has_synced": true,
+      "path": "select/18_Lay_Some_Happiness_on_Me_Dean_Martin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Happiness",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_01_Happiness_フレデリック.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Happiness",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_02_Happiness_フレデリック.txt"
+    }
+  ]
+}
